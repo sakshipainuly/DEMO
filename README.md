@@ -8,4 +8,4 @@ NOTE: Both the question compulsory to attempt
 Write a c program to implement First fit algorithm</b>
 
 <b>Q2 PROBLEM STATEMENT
-Write a C program to implement SJF CPU Scheduling algorithm. Example: In this Example, there are five jobs P1, P2, P3, P4, P5. Their arrival time and burst time are (2,0) (1,0) (4,0) (3,0) (2,0).Your task is to find the “waiting time”, the “turn-around time” ,averge waiting and average turnaroung time of each process using the ‘SJF CPU Scheduling’ algorithm</b>
+Write a C program to implement SJF CPU Scheduling algorithm. Example: In this Example, there are five jobs P1, P2, P3, P4, P5. Their arrival time and burst time are (2,0) (1,0) (4,0) (3,0) (2,0).Your task is to find the “waiting time”, the “turn-around time” ,averge waiting and average turn arnound time of each process using the ‘SJF CPU Scheduling’ algorithm</b>
